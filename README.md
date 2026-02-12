@@ -14,7 +14,7 @@
 ## Установка:
 
 1. Клонируйте репозиторий
-   (`git clone`) [GitHub]()
+   (`git clone`) [GitHub](https://github.com/SuchkovaMaria/Job_search)
 2. Установите зависимости
    (`pip requirements.txt`)
 
