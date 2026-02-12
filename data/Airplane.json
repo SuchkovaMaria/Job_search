@@ -1,0 +1,14 @@
+[
+    {
+        "identifier": "c02db4",
+        "country": "Canada",
+        "velocity_speed": 72.07,
+        "geo_altitude": 1005.84
+    },
+    {
+        "identifier": "c047b3",
+        "country": "canada",
+        "velocity_speed": 85.42,
+        "geo_altitude": 38.1
+    }
+]
